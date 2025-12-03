@@ -1,0 +1,16 @@
+{
+  "name": "videohub",
+  "version": "1.0.0",
+  "description": "A video hub where all videos will be stored the user may see then any time. A backend learning website",
+  "keywords": [
+    "Javscript",
+    "VideoHub"
+  ],
+  "license": "ISC",
+  "author": "ashmeet kaur",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
